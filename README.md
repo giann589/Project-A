@@ -1,0 +1,1 @@
+Define a structure Student with a first name, last name, and course grade (A, B, C, D, or F). Write a program that reads input in which each line has the first and last name and course grade, separated by spaces. Upon reading the input, your program should print all students with grade A, then all students with grade B, and so on.
